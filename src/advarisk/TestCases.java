@@ -180,7 +180,7 @@ public class TestCases {
 			
 			//22. verify after the Order complete PopUp comes or not('Thank you for your order!) 
 			
-		
+		//AMIT KOLI TEST
 
 	}
 
